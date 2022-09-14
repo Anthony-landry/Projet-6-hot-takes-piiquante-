@@ -16,7 +16,7 @@ npm install .
 ```
 
 
-- [x] - une fois completer, le renommer en "config.json"
+- [x] - une fois complété, le renommer en "config.json"
 
 3°) Un fichier ".env.example" est présent, 2 champs sont à remplir 
 
