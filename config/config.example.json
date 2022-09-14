@@ -1,0 +1,17 @@
+{
+	"development": {
+		"username": "",
+		"password": "",
+		"host": ""
+	},
+    "pre-prod": {
+		"username": "",
+		"password": "",
+		"host": ""
+	},
+    "prod": {
+		"username": "",
+		"password": "",
+		"host": ""
+	}
+}
